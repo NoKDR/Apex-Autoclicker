@@ -13,7 +13,7 @@ Apex Autoclicker is an extremely fast, premium windows autoclicker built with C#
 
 ## How to Install
 
-1. go to the **[Releases]([../../releases/latest](https://github.com/NoKDR/Apex-Autoclicker/releases)](https://github.com/NoKDR/Apex-Autoclicker/releases))** tab on the right side of the main page.
+1. go to the **[Releases](https://github.com/NoKDR/Apex-Autoclicker/releases)** tab on the right side of the main page.
 2. download **`ApexInstaller.exe`**.
 3. run the installer. it will automatically extract the app to your local programs and create a desktop shortcut for you.
 4. launch **Apex Autoclicker** and enjoy!
