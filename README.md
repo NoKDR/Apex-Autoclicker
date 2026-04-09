@@ -2,7 +2,7 @@ Apex Autoclicker is an extremely fast, premium windows autoclicker built with C#
 
 ## Features
 
-* **premium UI:** sleek, borderless dark mode with rounded corners and smooth native animations.
+* **premium UI:** sleek, borderless GUI with rounded corners and smooth native animations.
 * **target CPS mode:** set exactly how many clicks per second you want.
 * **manual interval mode:** pinpoint accuracy down to the millisecond (hours, mins, secs, ms).
 * **humanoid mode (randomized):** simulates real human clicking by picking random intervals between a minimum and maximum ms (great for games!).
